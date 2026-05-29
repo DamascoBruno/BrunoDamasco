@@ -5,32 +5,30 @@
 </p>
 
 <p align="center">
-  Transformo dados complexos em soluções simples, escaláveis e focadas em resultados. Acredito que a tecnologia industrial deve servir a dois propósitos: <strong>capacitar pessoas</strong> (TechLearn) e <strong>otimizar a execução</strong> (OGASAI).
+  Transformo dados complexos em soluções simples, escaláveis e focadas em resultados. Acredito que a tecnologia industrial deve servir a dois propósitos: <strong>capacitar pessoas</strong> e <strong>otimizar a execução</strong>.
 </p>
 
 ---
 
 ## 🛠 O Meu Ecossistema Industrial
 
-Desenvolvo ferramentas que cobrem o ciclo completo da operação, desde a formação técnica até à gestão de chão de fábrica:
+Desenvolvo ferramentas que cobrem o ciclo completo da operação:
 
 ### 🎓 <a href="https://damascobruno.github.io/Projeto_TechLearn/">TechLearn (Toyota TechLearn)</a>
-Uma plataforma de educação industrial focada em capacitação, gamificação e gestão de conhecimento técnico.
+Plataforma de educação industrial focada em capacitação, gamificação e gestão de conhecimento técnico.
 * **Foco:** Treinamento, acompanhamento de progresso e engajamento da equipe.
-* **Destaque:** Ranking em tempo real e dashboards para supervisores.
 
-### 🚀 <a href="https://github.com/damascobruno/OgasaiEngine">OGASAI-Engine</a>
-Um copiloto industrial *Net Zero* para gestão de ativos, indicadores de performance e Ordens de Serviço.
-* **Foco:** Otimização operacional, tomada de decisão baseada em dados e eficiência.
-* **Destaque:** Interface de alto contraste (Tema "Brasil Industrial") para ambientes de produção.
+### 🚀 <a href="https://damascobruno.github.io/OgasaiEngine/">OGASAI-Engine</a>
+Copiloto industrial *Net Zero* para gestão de ativos, indicadores de performance e Ordens de Serviço.
+* **Foco:** Otimização operacional e tomada de decisão em tempo real.
+* **Status:** <a href="https://github.com/damascobruno/OgasaiEngine">Repositório do Projeto</a>
 
 ---
 
 ## 🧠 Manifesto Industrial
-> *"A tecnologia industrial não deve ser apenas uma camada extra de trabalho, mas uma ponte entre a educação técnica e a eficiência operacional. O meu compromisso é construir soluções que reduzam a lacuna entre o saber (TechLearn) e o fazer (OGASAI)."*
+> *"A tecnologia industrial não deve ser apenas uma camada extra de trabalho, mas uma ponte entre a educação técnica e a eficiência operacional. O meu compromisso é construir soluções que reduzam a lacuna entre o saber e o fazer."*
 
 ---
-
 
 ## 📬 Vamos nos conectar?
 <p align="left">
@@ -41,5 +39,10 @@ Um copiloto industrial *Net Zero* para gestão de ativos, indicadores de perform
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 ---
-*Construindo a Indústria 4.0, um commit de cada vez.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damascobruno&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center"><i>Construindo a Indústria 4.0, um commit de cada vez.</i></p>
