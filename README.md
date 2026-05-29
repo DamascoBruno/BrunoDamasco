@@ -19,7 +19,7 @@ Uma plataforma de educação industrial focada em capacitação, gamificação e
 * **Foco:** Treinamento, acompanhamento de progresso e engajamento da equipe.
 * **Destaque:** Ranking em tempo real e dashboards para supervisores.
 
-### 🚀 <a href="https://github.com/damascobruno/ogasai-engine">OGASAI-Engine</a>
+### 🚀 <a href="https://github.com/damascobruno/OgasaiEngine">OGASAI-Engine</a>
 Um copiloto industrial *Net Zero* para gestão de ativos, indicadores de performance e Ordens de Serviço.
 * **Foco:** Otimização operacional, tomada de decisão baseada em dados e eficiência.
 * **Destaque:** Interface de alto contraste (Tema "Brasil Industrial") para ambientes de produção.
@@ -30,11 +30,6 @@ Um copiloto industrial *Net Zero* para gestão de ativos, indicadores de perform
 > *"A tecnologia industrial não deve ser apenas uma camada extra de trabalho, mas uma ponte entre a educação técnica e a eficiência operacional. O meu compromisso é construir soluções que reduzam a lacuna entre o saber (TechLearn) e o fazer (OGASAI)."*
 
 ---
-
-## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damascobruno&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-</p>
 
 
 ## 📬 Vamos nos conectar?
